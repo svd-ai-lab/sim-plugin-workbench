@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **This repository has moved.** `sim-plugin-workbench` is now developed in [svd-ai-lab/sim-cli](https://github.com/svd-ai-lab/sim-cli/tree/main/plugins/workbench) under `plugins/workbench`. This repository is archived and read-only; please open issues and pull requests in sim-cli.
+>
+> Install: `uv add sim-cli-core sim-plugin-workbench`
+
 # sim-plugin-workbench
 
 Use Codex, Claude Code, or another AI agent to orchestrate
